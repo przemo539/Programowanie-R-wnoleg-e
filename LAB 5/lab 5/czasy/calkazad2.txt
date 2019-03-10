@@ -1,0 +1,12 @@
+calka(10) z sin(x): 1.983524
+
+
+calka(100) z sin(x): 1.999836
+calka(100) z sin(x): 1.999998
+
+
+calka(1000) z sin(x): 1.999998
+
+
+calka(10000) z sin(x): 2.000000
+
